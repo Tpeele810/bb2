@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: burlywood;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    color:darkred;
+}
+h1 {
+    padding: 10px 20px;
+    background: black;
+    height: 50px;
+    color: red;
+    font-family: "Orbitron", serif;
+    font-size: 45px; 
+}
+button {
+    background:burlywood;
+    color:darkred;
+}
